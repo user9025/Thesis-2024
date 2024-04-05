@@ -3,7 +3,7 @@
 cd /media/kali/c7632987-030a-4e09-a818-c4e0dd812703/Downloads/RealExperiment
 
 output_file="experiment_results.txt" 
-echo "Experiment Results" > $output_file
+echo "Experiment Results:" > $output_file
 
 for dir in $(find . -mindepth 1 -type d); do 
 
@@ -83,7 +83,8 @@ for dir in $(find . -mindepth 1 -type d); do
 	done
 
 	average_throughput_aes=$(echo "scale=2; $total_size / $total_time_aes" | bc)
-	echo "Average throughput for ${dir} AES: ${average_throughput_aes} bytes/sec" >> $output_file
+	average_throughput_aes_kb=$(echo "scale=2; $average_throughput_aes / 1000" | bc)
+	echo "Average throughput for ${dir} AES: ${average_throughput_aes_kb} KB/sec" >> $output_file
 	echo "Average extra bytes after compression for AES (Gzip): $(echo "$extra_bytes_gzip_aes / $number_of_files" | bc) bytes" >> $output_file
 	echo "Average extra bytes after compression for AES (Zip): $(echo "$extra_bytes_zip_aes / $number_of_files" | bc) bytes" >> $output_file
 	echo "Average extra bytes after compression for AES (RAR): $(echo "$extra_bytes_rar_aes / $number_of_files" | bc) bytes
@@ -91,7 +92,8 @@ for dir in $(find . -mindepth 1 -type d); do
 	
 
 	average_throughput_camellia=$(echo "scale=2; $total_size / $total_time_camellia" | bc)
-	echo "Average throughput for ${dir} Camellia: ${average_throughput_camellia} bytes/sec" >> $output_file
+	average_throughput_camellia_kb=$(echo "scale=2; $average_throughput_camellia / 1000" | bc)
+	echo "Average throughput for ${dir} Camellia: ${average_throughput_camellia_kb} KB/sec" >> $output_file
 	echo "Average extra bytes after compression for Camellia (Gzip): $(echo "$extra_bytes_gzip_camellia / $number_of_files" | bc) bytes" >> $output_file
 	echo "Average extra bytes after compression for Camellia (Zip): $(echo "$extra_bytes_zip_camellia / $number_of_files" | bc) bytes" >> $output_file
 	echo "Average extra bytes after compression for Camellia (RAR): $(echo "$extra_bytes_rar_camellia / $number_of_files" | bc) bytes
