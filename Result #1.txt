@@ -1,0 +1,201 @@
+Experiment Results:
+Average throughput for ./100MBjpeg AES: 59535.12 KB/sec
+Average extra bytes after compression for AES (Gzip): 16688 bytes
+Average extra bytes after compression for AES (Zip): 16858 bytes
+Average extra bytes after compression for AES (RAR): 208 bytes
+
+Average throughput for ./100MBjpeg Camellia: 149120.91 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 16698 bytes
+Average extra bytes after compression for Camellia (Zip): 16873 bytes
+Average extra bytes after compression for Camellia (RAR): 218 bytes
+
+Average throughput for ./50MBjpeg AES: 72366.77 KB/sec
+Average extra bytes after compression for AES (Gzip): 8036 bytes
+Average extra bytes after compression for AES (Zip): 8202 bytes
+Average extra bytes after compression for AES (RAR): 202 bytes
+
+Average throughput for ./50MBjpeg Camellia: 155742.39 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 8041 bytes
+Average extra bytes after compression for Camellia (Zip): 8212 bytes
+Average extra bytes after compression for Camellia (RAR): 212 bytes
+
+Average throughput for ./40MBmp4 AES: 66757.77 KB/sec
+Average extra bytes after compression for AES (Gzip): 6705 bytes
+Average extra bytes after compression for AES (Zip): 6877 bytes
+Average extra bytes after compression for AES (RAR): 216 bytes
+
+Average throughput for ./40MBmp4 Camellia: 151605.81 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 6710 bytes
+Average extra bytes after compression for Camellia (Zip): 6887 bytes
+Average extra bytes after compression for Camellia (RAR): 226 bytes
+
+Average throughput for ./70MBmp4 AES: 57800.23 KB/sec
+Average extra bytes after compression for AES (Gzip): 11791 bytes
+Average extra bytes after compression for AES (Zip): 11967 bytes
+Average extra bytes after compression for AES (RAR): 222 bytes
+
+Average throughput for ./70MBmp4 Camellia: 155856.91 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 11822 bytes
+Average extra bytes after compression for Camellia (Zip): 12003 bytes
+Average extra bytes after compression for Camellia (RAR): 232 bytes
+
+Average throughput for ./10MBjpeg AES: 35746.39 KB/sec
+Average extra bytes after compression for AES (Gzip): 1632 bytes
+Average extra bytes after compression for AES (Zip): 1794 bytes
+Average extra bytes after compression for AES (RAR): 194 bytes
+
+Average throughput for ./10MBjpeg Camellia: 144809.94 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 1637 bytes
+Average extra bytes after compression for Camellia (Zip): 1804 bytes
+Average extra bytes after compression for Camellia (RAR): 204 bytes
+
+Average throughput for ./40MBjpeg AES: 45817.08 KB/sec
+Average extra bytes after compression for AES (Gzip): 6456 bytes
+Average extra bytes after compression for AES (Zip): 6642 bytes
+Average extra bytes after compression for AES (RAR): 242 bytes
+
+Average throughput for ./40MBjpeg Camellia: 154864.07 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 6461 bytes
+Average extra bytes after compression for Camellia (Zip): 6652 bytes
+Average extra bytes after compression for Camellia (RAR): 252 bytes
+
+Average throughput for ./90MBjpeg AES: 81677.37 KB/sec
+Average extra bytes after compression for AES (Gzip): 15076 bytes
+Average extra bytes after compression for AES (Zip): 15236 bytes
+Average extra bytes after compression for AES (RAR): 190 bytes
+
+Average throughput for ./90MBjpeg Camellia: 153717.61 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 15077 bytes
+Average extra bytes after compression for Camellia (Zip): 15242 bytes
+Average extra bytes after compression for Camellia (RAR): 200 bytes
+
+Average throughput for ./30MBjpeg AES: 35407.80 KB/sec
+Average extra bytes after compression for AES (Gzip): 4854 bytes
+Average extra bytes after compression for AES (Zip): 5038 bytes
+Average extra bytes after compression for AES (RAR): 238 bytes
+
+Average throughput for ./30MBjpeg Camellia: 153476.14 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 4859 bytes
+Average extra bytes after compression for Camellia (Zip): 5048 bytes
+Average extra bytes after compression for Camellia (RAR): 248 bytes
+
+Average throughput for ./30MBmp4 AES: 80397.80 KB/sec
+Average extra bytes after compression for AES (Gzip): 4662 bytes
+Average extra bytes after compression for AES (Zip): 4828 bytes
+Average extra bytes after compression for AES (RAR): 203 bytes
+
+Average throughput for ./30MBmp4 Camellia: 153587.04 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 4667 bytes
+Average extra bytes after compression for Camellia (Zip): 4838 bytes
+Average extra bytes after compression for Camellia (RAR): 213 bytes
+
+Average throughput for ./100MBmp4 AES: 83125.35 KB/sec
+Average extra bytes after compression for AES (Gzip): 16892 bytes
+Average extra bytes after compression for AES (Zip): 17063 bytes
+Average extra bytes after compression for AES (RAR): 212 bytes
+
+Average throughput for ./100MBmp4 Camellia: 152901.82 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 16891 bytes
+Average extra bytes after compression for Camellia (Zip): 17068 bytes
+Average extra bytes after compression for Camellia (RAR): 222 bytes
+
+Average throughput for ./50MBmp4 AES: 57092.66 KB/sec
+Average extra bytes after compression for AES (Gzip): 7899 bytes
+Average extra bytes after compression for AES (Zip): 8058 bytes
+Average extra bytes after compression for AES (RAR): 190 bytes
+
+Average throughput for ./50MBmp4 Camellia: 155763.08 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 7904 bytes
+Average extra bytes after compression for Camellia (Zip): 8068 bytes
+Average extra bytes after compression for Camellia (RAR): 200 bytes
+
+Average throughput for ./60MBmp4 AES: 63333.42 KB/sec
+Average extra bytes after compression for AES (Gzip): 9576 bytes
+Average extra bytes after compression for AES (Zip): 9753 bytes
+Average extra bytes after compression for AES (RAR): 224 bytes
+
+Average throughput for ./60MBmp4 Camellia: 155966.32 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 9581 bytes
+Average extra bytes after compression for Camellia (Zip): 9763 bytes
+Average extra bytes after compression for Camellia (RAR): 234 bytes
+
+Average throughput for ./10MBmp4 AES: 16375.64 KB/sec
+Average extra bytes after compression for AES (Gzip): 1646 bytes
+Average extra bytes after compression for AES (Zip): 1820 bytes
+Average extra bytes after compression for AES (RAR): 220 bytes
+
+Average throughput for ./10MBmp4 Camellia: 144546.79 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 1651 bytes
+Average extra bytes after compression for Camellia (Zip): 1830 bytes
+Average extra bytes after compression for Camellia (RAR): 230 bytes
+
+Average throughput for ./20MBmp4 AES: 27739.57 KB/sec
+Average extra bytes after compression for AES (Gzip): 3323 bytes
+Average extra bytes after compression for AES (Zip): 3494 bytes
+Average extra bytes after compression for AES (RAR): 213 bytes
+
+Average throughput for ./20MBmp4 Camellia: 151957.16 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 3328 bytes
+Average extra bytes after compression for Camellia (Zip): 3504 bytes
+Average extra bytes after compression for Camellia (RAR): 223 bytes
+
+Average throughput for ./80MBjpeg AES: 69529.14 KB/sec
+Average extra bytes after compression for AES (Gzip): 13474 bytes
+Average extra bytes after compression for AES (Zip): 13645 bytes
+Average extra bytes after compression for AES (RAR): 212 bytes
+
+Average throughput for ./80MBjpeg Camellia: 155972.86 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 13510 bytes
+Average extra bytes after compression for Camellia (Zip): 13686 bytes
+Average extra bytes after compression for Camellia (RAR): 222 bytes
+
+Average throughput for ./80MBmp4 AES: 59695.39 KB/sec
+Average extra bytes after compression for AES (Gzip): 13474 bytes
+Average extra bytes after compression for AES (Zip): 13647 bytes
+Average extra bytes after compression for AES (RAR): 217 bytes
+
+Average throughput for ./80MBmp4 Camellia: 155741.13 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 13472 bytes
+Average extra bytes after compression for Camellia (Zip): 13650 bytes
+Average extra bytes after compression for Camellia (RAR): 227 bytes
+
+Average throughput for ./90MBmp4 AES: 71699.18 KB/sec
+Average extra bytes after compression for AES (Gzip): 15132 bytes
+Average extra bytes after compression for AES (Zip): 15306 bytes
+Average extra bytes after compression for AES (RAR): 219 bytes
+
+Average throughput for ./90MBmp4 Camellia: 153362.02 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 15116 bytes
+Average extra bytes after compression for Camellia (Zip): 15294 bytes
+Average extra bytes after compression for Camellia (RAR): 229 bytes
+
+Average throughput for ./20MBjpeg AES: 40699.31 KB/sec
+Average extra bytes after compression for AES (Gzip): 3236 bytes
+Average extra bytes after compression for AES (Zip): 3402 bytes
+Average extra bytes after compression for AES (RAR): 202 bytes
+
+Average throughput for ./20MBjpeg Camellia: 151210.27 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 3241 bytes
+Average extra bytes after compression for Camellia (Zip): 3412 bytes
+Average extra bytes after compression for Camellia (RAR): 212 bytes
+
+Average throughput for ./60MBjpeg AES: 69783.26 KB/sec
+Average extra bytes after compression for AES (Gzip): 9686 bytes
+Average extra bytes after compression for AES (Zip): 9902 bytes
+Average extra bytes after compression for AES (RAR): 302 bytes
+
+Average throughput for ./60MBjpeg Camellia: 155904.20 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 9691 bytes
+Average extra bytes after compression for Camellia (Zip): 9912 bytes
+Average extra bytes after compression for Camellia (RAR): 313 bytes
+
+Average throughput for ./70MBjpeg AES: 61143.06 KB/sec
+Average extra bytes after compression for AES (Gzip): 11882 bytes
+Average extra bytes after compression for AES (Zip): 12043 bytes
+Average extra bytes after compression for AES (RAR): 192 bytes
+
+Average throughput for ./70MBjpeg Camellia: 155273.81 KB/sec
+Average extra bytes after compression for Camellia (Gzip): 11882 bytes
+Average extra bytes after compression for Camellia (Zip): 12048 bytes
+Average extra bytes after compression for Camellia (RAR): 202 bytes
+
